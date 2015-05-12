@@ -1,0 +1,6 @@
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\LongSequence\bin\Debug\LongSequence.exe.config
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\LongSequence\bin\Debug\LongSequence.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\LongSequence\bin\Debug\LongSequence.pdb
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\LongSequence\obj\Debug\LongSequence.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\LongSequence\obj\Debug\LongSequence.pdb
+C:\Users\ESF-IMB20\Documents\Visual Studio 2013\Projects\IntroToProgramming\LongSequence\obj\Debug\16.LongSequence.csprojResolveAssemblyReference.cache

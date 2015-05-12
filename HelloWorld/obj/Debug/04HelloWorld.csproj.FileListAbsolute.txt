@@ -1,0 +1,3 @@
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb

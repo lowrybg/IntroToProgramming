@@ -1,0 +1,6 @@
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\PrintYourName\bin\Debug\PrintYourName.exe.config
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\PrintYourName\bin\Debug\PrintYourName.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\PrintYourName\bin\Debug\PrintYourName.pdb
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\PrintYourName\obj\Debug\PrintYourName.csprojResolveAssemblyReference.cache
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\PrintYourName\obj\Debug\PrintYourName.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\PrintYourName\obj\Debug\PrintYourName.pdb

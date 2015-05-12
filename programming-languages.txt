@@ -1,0 +1,25 @@
+
+    1.C
+
+    An advanced programming language used for software application development. Originally developed by Dennis Ritchie at Bell Labs in the 1970's and designed to be a systems programming language but since then has proven itself to be able to be used for various software applications such as business programs, engineering programs, and even games. The UNIX operating system is written in C.
+
+    2.C++
+
+    Descendant of the C language. The difference between the two languages is that C++ is object-oriented. C++ was developed by Bjarne Stroustrup at Bell Labs and is a very popular language for graphical applications.
+
+    3.Visual Basic
+
+    A language developed by Microsoft based on the BASIC language . Visual Basic is used for creating Windows applications. The VBScript language (also developed by Microsoft) is based on Visual Basic.
+
+    4.Java
+
+    A powerful and flexible language created by Sun MicroSystems that can be used to create applets (a program that is executed from within another program) that run inside webpages as well as software applications. Things you can do with Java include interacting with the user, creating graphical programs, reading from files, and more. Java is often confused with Javascript, but they are two different languages. Learn Java at our Java tutorials section.
+
+    5.Python
+
+    Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability,
+and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java.
+Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles.
+It features a dynamic type system and automatic memory management
+Python projects are often open-source, web-based, and/or cross-platform. Python has a larger user base on mac and unix-based platforms.
+C# projects are often proprietary, windows-based applications. There's very few non-windows C# projects.

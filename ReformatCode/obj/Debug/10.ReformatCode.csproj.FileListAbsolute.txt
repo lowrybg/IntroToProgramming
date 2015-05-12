@@ -1,0 +1,5 @@
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\ReformatCode\bin\Debug\ReformatCode.exe.config
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\ReformatCode\bin\Debug\ReformatCode.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\ReformatCode\bin\Debug\ReformatCode.pdb
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\ReformatCode\obj\Debug\ReformatCode.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\ReformatCode\obj\Debug\ReformatCode.pdb

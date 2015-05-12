@@ -1,0 +1,5 @@
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.exe.config
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.pdb
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\SquareRoot\obj\Debug\SquareRoot.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\SquareRoot\obj\Debug\SquareRoot.pdb

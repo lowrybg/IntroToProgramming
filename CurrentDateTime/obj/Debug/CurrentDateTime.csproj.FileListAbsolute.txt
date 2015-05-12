@@ -1,0 +1,5 @@
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
