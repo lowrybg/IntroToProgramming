@@ -3,3 +3,6 @@ c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\Prin
 c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\PrintSequence\bin\Debug\PrintSequence.pdb
 c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\PrintSequence\obj\Debug\PrintSequence.exe
 c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Taner\Documents\GitHub\IntroToProgramming\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Taner\Documents\GitHub\IntroToProgramming\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Taner\Documents\GitHub\IntroToProgramming\PrintSequence\obj\Debug\PrintSequence.pdb

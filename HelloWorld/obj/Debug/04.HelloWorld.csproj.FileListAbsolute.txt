@@ -3,3 +3,6 @@ c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\Hell
 c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\HelloWorld\bin\Debug\HelloWorld.pdb
 c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\esf-imb20\documents\visual studio 2013\Projects\IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Taner\Documents\GitHub\IntroToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Taner\Documents\GitHub\IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Taner\Documents\GitHub\IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb
